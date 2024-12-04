@@ -8,5 +8,5 @@ This project demonstrates image classification using transfer learning technique
 1. Run the initial example from the [LearnOpenCV tutorial](https://learnopencv.com/image-classification-using-transfer-learning-in-pytorch/).  
 2. Experiment with additional augmentations and analyze their effects.  
 3. Swap the model architecture from ResNet to EfficientNet and evaluate performance.  
-4. Introduce custom regularization techniques and assess the results.  
+  
 
